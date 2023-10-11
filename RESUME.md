@@ -1,0 +1,3 @@
+-Nguyen Truong
+-YOG = 2027
+-Major: Computer Science
